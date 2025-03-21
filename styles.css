@@ -126,3 +126,21 @@ footer {
     height: 250px;
 }
 
+.GG-image {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 20px auto; 
+    border: 2px solid #35424a; 
+    border-radius: 5px; 
+}
+
+.princip {
+    background: rgba(255, 255, 255, 0.1); 
+    font-size: 1.2em; 
+    padding: 15px; 
+    border-left: 5px solid #007C21; 
+    margin: 20px 0; 
+    border-radius: 5px; 
+    color: ;
+}
